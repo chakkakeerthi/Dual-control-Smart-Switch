@@ -106,5 +106,3 @@ The following behaviors can be tested:
 CHAKKA SRIKEERTHI
 
 Engineering Student | IoT | Embedded Systems | Cybersecurity
-
-[Choose a license, such as MIT, if you want others to reuse your code under its terms.]
